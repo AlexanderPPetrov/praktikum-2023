@@ -1,0 +1,12 @@
+.content-box {
+    min-height: 300px;
+}
+/* 
+.row + .row {
+    margin-top: 1rem;
+} */
+
+.white-circle {
+    width: 100px;
+    height: 100px;
+}

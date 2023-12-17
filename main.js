@@ -1,14 +1,14 @@
 import { MY_CARS, HIS_CARS } from './cars.js'
 
 //TODO home work import users from data-examples.js
-//Write a function that will return
+//Write different functions that will return
 //1. The avarage age of users
 //2. All users that are above age of 30
 //3. All unique jobTitle-s
 //4. All users full name
 
 //import companyInformation from data-examples.js
-//Write a function that will return
+//Write different functions that will return
 //1. Department names
 //2. All teamMembers
 //3. All users that are above age of 30

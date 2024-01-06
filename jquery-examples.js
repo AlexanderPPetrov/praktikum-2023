@@ -103,7 +103,5 @@ $(function() {
         $('#users-container').append($div)
     }
 
-
-
 });
 
